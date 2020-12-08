@@ -22,7 +22,7 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 [4. 구현](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
 
 
-[5. DFS/BFS](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
+[5. DFS/BFS](https://github.com/Youngminah/thisiscodingtest/tree/master/5)
 
 
 [6. 정렬](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
