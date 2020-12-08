@@ -1,4 +1,6 @@
-### <이것이 취업을 위한 코딩테스트다>로 준비하는 코딩테스트
+## 코딩테스트 준비
+
+<img src = "https://user-images.githubusercontent.com/42762236/101512360-42125800-39be-11eb-9bcf-86173de1dada.png" width="300px">
 
 
 
