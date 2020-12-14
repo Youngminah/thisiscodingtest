@@ -18,7 +18,7 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
 
 
-[3. 그리디](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
+[3. 그리디](https://github.com/Youngminah/thisiscodingtest/tree/master/3)
 
 
 [4. 구현](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
