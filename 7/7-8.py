@@ -3,7 +3,7 @@ a = list(map(int,input().split()))
 
 def binary(array, start, end, target):
     if start > end :
-        return None
+        return end
 
     mid = (start+end)//2
     result =0

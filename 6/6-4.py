@@ -1,8 +1,6 @@
 array = [5, 7, 9, 0, 3, 1, 6, 2, 4, 8]
 
-
 def quickSort(array, left, right):
-
     if left >= right:
         return
 
@@ -21,7 +19,6 @@ def quickSort(array, left, right):
     array[d], array[pivot] = array[pivot], array[d]
     quickSort(array, left, d - 1)
     quickSort(array, d+1, right)
-
 
 quickSort(array, 0, len(array) - 1)
 print(array)
