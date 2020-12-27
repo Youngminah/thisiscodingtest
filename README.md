@@ -36,7 +36,7 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 [8. 다이나믹 프로그래밍](https://github.com/Youngminah/thisiscodingtest/tree/master/8)
 
 
-[9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
+[9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/9)
 
 
 [10. 그래프 이론](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
