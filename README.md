@@ -7,8 +7,8 @@
 [파일이름].py 파일이름에 solution이 안붙었으면 내가 푼 것. 
 solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
+너무 쉬운 예제는 뺏음.
 
-같은 문제에 내 풀이 밖에 없다면 내 풀이가 더 좋은 풀이
 
 
 
@@ -36,7 +36,7 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 [8. 다이나믹 프로그래밍](https://github.com/Youngminah/thisiscodingtest/tree/master/8)
 
 
-[9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
+[9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/9)
 
 
 [10. 그래프 이론](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
