@@ -20,28 +20,29 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
 
 [3. 그리디](https://github.com/Youngminah/thisiscodingtest/tree/master/3)
+[해설]
 
 
 [4. 구현](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
-
+[해설]
 
 [5. DFS/BFS](https://github.com/Youngminah/thisiscodingtest/tree/master/5)
-
+[해설]
 
 [6. 정렬](https://github.com/Youngminah/thisiscodingtest/tree/master/6)
-
+[해설]
 
 [7. 이진탐색](https://github.com/Youngminah/thisiscodingtest/tree/master/7)
-
+[해설]
 
 [8. 다이나믹 프로그래밍](https://github.com/Youngminah/thisiscodingtest/tree/master/8)
-
+[해설]
 
 [9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/9)
-
+[해설]
 
 [10. 그래프 이론](https://github.com/Youngminah/thisiscodingtest/tree/master/10)
-
+[해설]
 
 
 
