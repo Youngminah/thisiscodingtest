@@ -18,9 +18,12 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 #### 2장. 주요 알고리즘 이론과 실전문제
 
 
+#### 3. 그리디
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/3)
 
-[3. 그리디](https://github.com/Youngminah/thisiscodingtest/tree/master/3)
-[해설]
+[설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)
+
+
 
 
 [4. 구현](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
