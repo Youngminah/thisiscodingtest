@@ -36,9 +36,9 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 [설명 & 해설](https://cau-meng2.tistory.com/75?category=826666)
 
 
-
-[6. 정렬](https://github.com/Youngminah/thisiscodingtest/tree/master/6)
-[해설]
+#### 6. 정렬
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/6)
+[설명 & 해설](https://cau-meng2.tistory.com/76?category=826666)
 
 [7. 이진탐색](https://github.com/Youngminah/thisiscodingtest/tree/master/7)
 [해설]
