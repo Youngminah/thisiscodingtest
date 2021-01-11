@@ -28,12 +28,12 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 #### 4. 구현
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/4)
 
-[해설](https://cau-meng2.tistory.com/73?category=826666)
+[설명 & 해설](https://cau-meng2.tistory.com/73?category=826666)
 
 #### 5. DFS/BFS
-[5. DFS/BFS](https://github.com/Youngminah/thisiscodingtest/tree/master/5)
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/5)
 
-[해설](https://cau-meng2.tistory.com/75?category=826666)
+[설명 & 해설](https://cau-meng2.tistory.com/75?category=826666)
 
 
 
