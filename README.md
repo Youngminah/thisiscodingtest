@@ -38,19 +38,30 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
 #### 6. 정렬
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/6)
+
 [설명 & 해설](https://cau-meng2.tistory.com/76?category=826666)
 
-[7. 이진탐색](https://github.com/Youngminah/thisiscodingtest/tree/master/7)
+
+#### 7. 이진탐색
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/7)
+
 [해설]
 
-[8. 다이나믹 프로그래밍](https://github.com/Youngminah/thisiscodingtest/tree/master/8)
-[해설]
 
-[9. 최단 경로](https://github.com/Youngminah/thisiscodingtest/tree/master/9)
-[해설]
+#### 8. 다이나믹 프로그래밍
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/8)
 
-[10. 그래프 이론](https://github.com/Youngminah/thisiscodingtest/tree/master/10)
-[해설]
+[설명 & 해설]
+
+#### 9. 최단 경로
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/9)
+
+[설명 & 해설]
+
+#### 10. 그래프 이론
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/10)
+
+[설명 & 해설]
 
 
 
