@@ -16,7 +16,6 @@ for i in range(1,n+1):
 
 
 def topology_sort():
-
     q = deque()
     result = copy.deepcopy(time)
     for i in range(1, n+1):
