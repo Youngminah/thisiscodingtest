@@ -18,6 +18,12 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 ### **2장. 주요 알고리즘 이론과 실전문제**
 
 
+#### 3. 그리디
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.)
+
+[설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)
+
+
 #### 4. 구현
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/04.구현)
 
@@ -38,23 +44,23 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 #### 7. 이진탐색
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/07.이진탐색)
 
-[설명 & 해설]
+[설명 & 해설](https://cau-meng2.tistory.com/77?category=826666)
 
 
 #### 8. 다이나믹 프로그래밍
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/08.다이나믹)
 
-[설명 & 해설]
+[설명 & 해설](https://cau-meng2.tistory.com/95?category=826666)
 
 #### 9. 최단 경로
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/09.최단경로)
 
-[설명 & 해설]
+[설명 & 해설](https://cau-meng2.tistory.com/96?category=826666)
 
 #### 10. 그래프 이론
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/10.그래프이론)
 
-[설명 & 해설]
+[설명 & 해설](https://cau-meng2.tistory.com/97?category=826666)
 
 
 
