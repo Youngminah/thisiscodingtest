@@ -19,7 +19,7 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
 
 #### 3. 그리디
-[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.)
+[코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디)
 
 [설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)
 
