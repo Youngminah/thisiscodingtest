@@ -1,5 +1,4 @@
 def solution(food_times, k):
-
     if sum(food_times) <= k:
         return -1
 
@@ -11,7 +10,6 @@ def solution(food_times, k):
 
     a.sort()
     k = k + 1
-
     tmp = 0
     m = len(a)
     i = 0
