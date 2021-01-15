@@ -1,11 +1,11 @@
 def solution(food_times, k):
-    n = len(food_times)
-    a = []
 
     if sum(food_times) <= k:
         return -1
 
-    totaltime = 0
+    n = len(food_times)
+    a = []
+
     for i in range(n):
         a.append([food_times[i], i + 1])
 
