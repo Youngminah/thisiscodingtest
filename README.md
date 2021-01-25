@@ -71,10 +71,10 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 
 #### 11. 그리디문제
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/3%EC%9E%A5.%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9C%A0%ED%98%95%EB%B3%84%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/11.%EA%B7%B8%EB%A6%AC%EB%94%94%EB%AC%B8%EC%A0%9C)
-[설명 & 해설
+
 
 
 
 #### 12. 구현문제
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/3장.알고리즘유형별기출문제/12.구현문제)
-[설명 & 해설
+
