@@ -3,12 +3,8 @@
 <img src = "https://user-images.githubusercontent.com/42762236/101512360-42125800-39be-11eb-9bcf-86173de1dada.png" width="300px">
 
 
+너무 쉬운 예제는 생략한 부분도 있다.
 
-[파일이름].py 파일이름에 solution이 안붙었으면 내가 푼 것. 
-solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
-
-너무 쉬운 예제는 뺏음
-기본예제
 
 
 
