@@ -1,5 +1,6 @@
 ## 03. Greedy 
-
+</br>
+</br>
 <img src = "https://user-images.githubusercontent.com/42762236/113481518-f8053300-94d4-11eb-93b8-c973088e8a20.png" width="500px">
 
 </br>
