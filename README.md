@@ -21,6 +21,8 @@ solution이 붙어 있으면 책에 나와있는 더 효율적인 풀이
 #### 3. 그리디
 [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디)
 
+[이론](https://github.com/Youngminah/thisiscodingtest/tree/master/2%EC%9E%A5.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94)
+
 [설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)
 
 
