@@ -23,8 +23,8 @@
 
 | 주요알고리즘     | 진행|  소스코드   |  이론정리    |  블로그정리  |
 | ---- | ---- | ---- | ---- | ---- |
-|   3.그리디   |   ✔ |  [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디)   |    [이론](https://github.com/Youngminah/thisiscodingtest/tree/master/2%EC%9E%A5.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94)   |    [설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)    |
-|  4.구현  | 〰 |  [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/04.구현)    |      |  [설명 & 해설](https://cau-meng2.tistory.com/73?category=826666)    |
+|   3.그리디   | ✔ |  [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디)   |    [이론](https://github.com/Youngminah/thisiscodingtest/tree/master/2%EC%9E%A5.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94)   |    [설명 & 해설](https://cau-meng2.tistory.com/70?category=826666)    |
+|  4.구현  | ✔ |  [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/04.구현)    |   [이론](https://github.com/Youngminah/thisiscodingtest/blob/master/2%EC%9E%A5.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/04.%EA%B5%AC%ED%98%84/Readme.md)   |  [설명 & 해설](https://cau-meng2.tistory.com/73?category=826666)    |
 | 5. DFS/BFS| 〰 | [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/05.DFSBFS)  |      |  [설명 & 해설](https://cau-meng2.tistory.com/75?category=826666)    |
 |  6. 정렬  |  〰 |  [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/06.정렬)   |         |   [설명 & 해설](https://cau-meng2.tistory.com/76?category=826666) |
 | 7.이진탐색 |  〰 | [코드](https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/07.이진탐색)|      |  [설명 & 해설](https://cau-meng2.tistory.com/77?category=826666)   |
