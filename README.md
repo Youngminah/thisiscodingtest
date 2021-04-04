@@ -1,13 +1,19 @@
 ## 코딩테스트 준비
-
+</br>
 <img src = "https://user-images.githubusercontent.com/42762236/101512360-42125800-39be-11eb-9bcf-86173de1dada.png" width="300px">
 
 
 너무 쉬운 예제는 생략한 부분도 있다.
 
+</br>
+
+**코딩테스트 빈출 유형**
+
+<img src = "https://user-images.githubusercontent.com/42762236/113508081-fe54e700-9588-11eb-8bc3-79432665aec0.png" width="400px">
 
 
-
+</br>
+</br>
 
 ## 목차
 
