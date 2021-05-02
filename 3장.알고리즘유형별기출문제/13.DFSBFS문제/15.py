@@ -2,7 +2,6 @@ from collections import deque
 import sys
 
 input = sys.stdin.readline
-
 n, m, k, x = map(int, input().split())
 graph=[[] for _ in range(n+1)]
 
@@ -10,8 +9,7 @@ for i in range(m):
     a, b = map(int, input().split())
     graph[a].append(b)
 
-
-visit = [False] * (n+1)
+visit = [False]*(n+1)
 queue = deque()
 count = 0
 result = []
