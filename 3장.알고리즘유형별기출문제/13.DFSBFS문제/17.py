@@ -8,36 +8,38 @@ data = []
 for i in range(n):
     graph.append(list(map(int, input().split())))
     for j in range(n):
-        if graph[i][j] != 0:
+        if graph[i][j] != 0 :
             data.append((graph[i][j], 0, i, j))
-
-
-data.sort()
-q = deque(data)
-print(q)
 
 s, x, y = map(int, input().split())
 
-dx = [-1, 0, 1, 0]
-dy = [0, 1, 0, -1]
+data.sort()
+queue = deque(data)
 
-while q:
-    virus, ps, px, py = q.popleft()
+def bfs(graph, s, queue):
+    dx = [0, 0, -1, 1]
+    dy = [1, -1, 0, 0]
 
-    if ps == s:
-        break
+    while queue:
+        virus, ps, px, py = queue.popleft()
 
-    for i in range(4):
-        nx = n + dx[i]
-        ny = n + dy[i]
-        
-        if nx < 0 or ny < 0 or nx>=n or ny >=n:
-            continue
+        if ps == s:
+            break
 
-        if graph[ny][ny] != 0 :
-            continue
+        for i in range(4):
+            nx = px + dx[i]
+            ny = py + dy[i]
 
-        graph[nx][ny] = virus
-        q.append((virus, s+1, nx, ny))
+            if nx < 0 or ny < 0 or nx >= n or  ny >= n:
+                continue
 
+            if graph[nx][ny] != 0:
+                continue
+
+            graph[nx][ny] = virus
+            queue.append((virus, ps+1, nx, ny))
+
+
+
+bfs(graph, s, queue)
 print(graph[x-1][y-1])
